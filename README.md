@@ -7,7 +7,7 @@ Once the items have been reviewed and refined, the team prioritizes them based o
 
 Overall, backlog grooming is a critical activity for any Agile team that wants to deliver high-quality products and services. By keeping the backlog up-to-date, the team can ensure that they are working on the most important tasks, and they have a clear understanding of what needs to be done next.
 
-## Do backlog grooming in GitHub
+## Do Backlog Grooming In GitHub
 In GitHub, backlog grooming can be done using several different features. The most common method is to use GitHub Issues, which allows the team to create, track, and prioritize tasks. Here's how to do backlog grooming in GitHub using Issues:
 
 - Create Issues: Create a new Issue for each item in the backlog. This can be done manually or by importing issues from other systems. Each issue should contain a    description, acceptance criteria, and any other relevant information.

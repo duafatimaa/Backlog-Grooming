@@ -10,11 +10,16 @@ Overall, backlog grooming is a critical activity for any Agile team that wants t
 ## Do Backlog Grooming In GitHub
 In GitHub, backlog grooming can be done using several different features. The most common method is to use GitHub Issues, which allows the team to create, track, and prioritize tasks. Here's how to do backlog grooming in GitHub using Issues:
 
-- Create Issues: Create a new Issue for each item in the backlog. This can be done manually or by importing issues from other systems. Each issue should contain a    description, acceptance criteria, and any other relevant information.
-- Add Labels and Milestones: Use labels to categorize issues by type (e.g., bug, feature, enhancement) and priority (e.g., high, medium, low). Use milestones to group    related issues together and set deadlines.
-- Prioritize Issues: Prioritize the issues based on their importance and urgency. This can be done by using the drag-and-drop functionality in the Issues view or by using  a separate prioritization tool.
-- Review and Refine: Regularly review the backlog and refine the issues as necessary. This includes updating the description, acceptance criteria, and other details to ensure that they are accurate and up-to-date.
-- Estimate Issues: Use estimates to help plan and schedule work. This can be done by adding an estimate to each issue or by using a separate estimation tool.
+## Create Issues: 
+Create a new Issue for each item in the backlog. This can be done manually or by importing issues from other systems. Each issue should contain a    description, acceptance criteria, and any other relevant information.
+## Add Labels and Milestones: 
+Use labels to categorize issues by type (e.g., bug, feature, enhancement) and priority (e.g., high, medium, low). Use milestones to group    related issues together and set deadlines.
+## Prioritize Issues:
+Prioritize the issues based on their importance and urgency. This can be done by using the drag-and-drop functionality in the Issues view or by using  a separate prioritization tool.
+## Review and Refine:
+Regularly review the backlog and refine the issues as necessary. This includes updating the description, acceptance criteria, and other details to ensure that they are accurate and up-to-date.
+## Estimate Issues:
+Use estimates to help plan and schedule work. This can be done by adding an estimate to each issue or by using a separate estimation tool.
 ## Overview
 Backlog grooming is a crucial meeting for Agile teams to effectively organize and prioritize tasks in a project. During this meeting, the team collaboratively reviews and refines the items in the product backlog, creating milestones and issues to ensure a clear and accurate understanding of the work that needs to be done. This process enables the team to assess the status of each issue, determine which ones require additional work, and re-prioritize accordingly.
 
